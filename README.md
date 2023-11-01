@@ -5,7 +5,7 @@ Installation
 
 To install and run the SC Bounty Bot, follow these steps:
 
-    Clone the repository from GitHub: git clone https://github.com/your-user/sc-bounty-bot.git
+    Clone the repository from GitHub
     Navigate to the project directory: cd sc-bounty-bot
     Install the required dependencies: npm install
     Configure the bot settings by editing the config.js file and providing the necessary information, such as API keys, database connection details, and any other required parameters.
@@ -26,7 +26,7 @@ Viewing Bounties
 
 To view the existing bounties, use the following command:
 
-!getbounty
+/getbounty
 
 This command will display a list of active bounties, including the RSI names and payment amounts.
 
